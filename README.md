@@ -4,8 +4,7 @@
 
 
 ## :bulb: Platforms & Languages
-[!뱃지이름](http://img.shields.io/badge/language-swift-orange)
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 
 <table><tr><td valign="top" width="50%">
 
