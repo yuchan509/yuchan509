@@ -4,6 +4,12 @@
 
 
 
-<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=uchanjiy">
+<table><tr><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact)](https://github.com/yuchan509/github-readme-stats)
+<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=uchanjiy" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact)theme=highcontrast" align="left" style="width: 100%" />
+
+</td></tr></table>  
