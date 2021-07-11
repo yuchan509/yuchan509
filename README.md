@@ -6,10 +6,10 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=midnight-purple" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=midnight-purple" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=midnight-purple" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=midnight-purple" align="left" style="width: 90%" />
 
 </td></tr></table>  
