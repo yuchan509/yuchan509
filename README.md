@@ -13,6 +13,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight&&langs_count=8" align="right" style="width: 100%" />
 
 </td></tr></table>  
