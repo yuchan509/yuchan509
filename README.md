@@ -5,4 +5,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=uchanjiy)](https://solved.ac/profile/uchanjiy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&hide=javascript,html)](https://github.com/yuchan509/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact)](https://github.com/yuchan509/github-readme-stats)
