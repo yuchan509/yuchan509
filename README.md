@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupytes&logoColor=white" /></a>
 </p>
 
-
+<br>
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=material-palenight" align="left" style="width: 100%" />
