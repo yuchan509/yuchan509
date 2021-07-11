@@ -28,6 +28,6 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="left" style="width: 120% height: 10%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="Right" style="width: 120% />
 
 </td></tr></table>  
