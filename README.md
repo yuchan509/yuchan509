@@ -4,7 +4,7 @@
 
 
 ## :bulb: Platforms & Languages
-
+[!뱃지이름](http://img.shields.io/badge/language-swift-orange)
 
 
 <table><tr><td valign="top" width="50%">
