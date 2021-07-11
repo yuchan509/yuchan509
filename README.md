@@ -26,8 +26,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=material-palenight" align="left" style="width: 100%" />
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="left" style="width: 120%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="left" style="width: 120% height: 10%" />
 
 </td></tr></table>  
