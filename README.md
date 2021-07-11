@@ -6,7 +6,8 @@
 
 
 <table><tr><td valign="top" width="50%">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yuchan509&repo=github-readme-stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=midnight-purple" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
