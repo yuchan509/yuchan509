@@ -5,6 +5,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=uchanjiy)](https://solved.ac/profile/uchanjiy)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuchan509&repo=github-readme-stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509)](https://github.com/yuchan509/github-readme-stats)
