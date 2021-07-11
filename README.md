@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=c#&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c#&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" /></a>
