@@ -22,7 +22,7 @@
 </p>
 
 <br>
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="51%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuchan509&show_icons=true&theme=material-palenight" align="left" style="width: 100%" />
 
