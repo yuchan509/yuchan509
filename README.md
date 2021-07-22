@@ -21,6 +21,12 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupytes&logoColor=white" /></a>
 </p>
 
+
+<p align="left"> 
+    <a href="https://www.notion.so/ko-kr" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/> </a>
+  
+</p>
+
 <br>
 <table><tr><td valign="top" width="51%">
 
