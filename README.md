@@ -1,4 +1,4 @@
-# Welcome to my Github!! 🌱
+## Welcome to my Github!! 🌱
 
 
 <h3 align="center"> 🛠 Platforms & Languages 🛠 </h3>
