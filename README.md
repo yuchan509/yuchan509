@@ -20,7 +20,11 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCVs&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupytes&logoColor=white" /></a>
 </p>
-![](https://github.com//yuchan509/blob/output/github-user-contribution.s
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <p align="left"> 
     <a href="https://www.notion.so/ko-kr" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/> </a>
