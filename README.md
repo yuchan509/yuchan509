@@ -22,8 +22,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/yuchan509/yuchan509/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+ ![Snake Game](https://raw.githubusercontent.com/yuchan509/yuchan509/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="left"> 
