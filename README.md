@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCVs&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupytes&logoColor=white" /></a>
 </p>
-
+![](https://github.com/CODe1995/CODe1995/blob/output/github-user-contribution.s
 
 <p align="left"> 
     <a href="https://www.notion.so/ko-kr" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/> </a>
