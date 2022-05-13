@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupytes&logoColor=white" /></a>
 </p>
 
-<p align="center">
+
 ![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-user-contribution.svg)
-</p>
+
 
 <p align="left"> 
     <a href="https://www.notion.so/ko-kr" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/> </a>
