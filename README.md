@@ -1,5 +1,5 @@
 ## Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=20&animation=fadeIn&customColorList=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=20&animation=fadeIn&customColorList=1)
 
 <h3 align="center"> 🛠 Platforms & Languages 🛠 </h3>
 
@@ -26,8 +26,4 @@
 
 
 
-
-
-
-</td></tr></table>  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1)
