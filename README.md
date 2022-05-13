@@ -1,5 +1,5 @@
 ## Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the %20reward&fontSize=20&animation=fadeIn&customColorList=3)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=20&animation=fadeIn&customColorList=1)
 
 <h3 align="center"> 🛠 Platforms & Languages 🛠 </h3>
 
