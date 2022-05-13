@@ -25,13 +25,9 @@
 ![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-user-contribution.svg)
 
 
-<p align="left"> 
-    <a href="https://www.notion.so/ko-kr" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v2.png"/> </a>
-  
-</p>
 
 
 
 
 </td></tr></table>  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1)
