@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" /></a>&nbsp
-<br>
+
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=c#&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" /></a>&nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /></a>&nbsp
