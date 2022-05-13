@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=20&animation=fadeIn&customColorList=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=30&animation=fadeIn&customColorList=1)
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a> &nbsp
