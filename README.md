@@ -34,4 +34,4 @@
 
 
 </td></tr></table>  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorLi
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1)
