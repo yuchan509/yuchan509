@@ -1,8 +1,6 @@
 ## Welcome to my Github!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=20&animation=fadeIn&customColorList=1)
 
-<h3 align="center"> 🛠 Platforms & Languages 🛠 </h3>
-
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></a>
