@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
- ![Snake Game](https://raw.githubusercontent.com/yuchan509/yuchan509/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.gif)
 </p>
 
 <p align="left"> 
