@@ -40,3 +40,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchan509&layout=compact&theme=material-palenight" align="left" style="width: 100%"/>
 
 </td></tr></table>  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorLi
