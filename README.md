@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-    ![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-user-contribution.svg)
+    ![](https://github.com/yuchan509/yuchan509/blob/output/github-user-contribution.svg)
 </p>
 
 <p align="left"> 
