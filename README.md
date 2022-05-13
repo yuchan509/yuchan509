@@ -23,7 +23,7 @@
 
 <p align="center">
 
-![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <p align="left"> 
