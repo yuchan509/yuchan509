@@ -20,4 +20,4 @@
 
 ![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-user-contribution.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
