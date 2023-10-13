@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/{yuchan509}/{yuchan509}/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1 )
