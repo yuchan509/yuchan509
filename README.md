@@ -40,6 +40,7 @@ If you have any inquiries, feel free to email me! I’ll respond as soon as poss
   />
   <img
     alt="github contribution grid snake animation"
+    media="(prefers-color-scheme: dark)"
     src="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
