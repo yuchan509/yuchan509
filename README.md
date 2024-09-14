@@ -8,7 +8,7 @@
 
 ![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
 ---
-## 🚀 About Me
+### 🚀 About Me
 
 🎓 **Education**
 
