@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### ✨ Who I Am
 
 🎓 **Education**
 
