@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!%20I%20am%20Yuchan&fontSize=30&animation=fadeIn&customColorList=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=30&animation=fadeIn&customColorList=2)
 
 <p align="center">
   <a href="https://skillicons.dev">
