@@ -5,8 +5,6 @@
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,github,gitlab,jenkins,kafka,postgres,python,fastapi,nextjs,react,ts&perline=5" />
   </a>
 </p>
-
-![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
 ---
 ### 🚀 About Me
 
