@@ -6,9 +6,11 @@
   </a>
 </p>
 
+![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
 ---
+## 🚀 About Me
 
-### 🎓 **Education**
+🎓 **Education**
 
 - **2021.08.27** - **Graduated from Pusan National University**
   - **Major:** Statistics
@@ -16,8 +18,7 @@
   - **Minor:** Economics
 
 ---
-
-### 📖 **Career Highlights**
+🌱 **Career Highlights**
 
 - **2020.11 ~ 2021.05**: Completed Project-based AI Big Data Fusion Training
 - **2021.07 ~ 2021.09**: [NIA] Public Big Data Youth Talent Development Program
@@ -32,15 +33,4 @@
 If you have any inquiries, feel free to email me! I’ll respond as soon as possible.
 
 - **Email**: destiny2468s@naver.com 😎
-
----
-
-### 📚 **Keywords**
-
-`# FinOps` `# MLOps` `# FMOps` `# SRE` `# Model Serving` `# Kubernetes`
-
----
-
-![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
