@@ -35,13 +35,16 @@ If you have any inquiries, feel free to email me! I’ll respond as soon as poss
 
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    media="(prefers-color-scheme: dark)"
-    src="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
+    src="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
