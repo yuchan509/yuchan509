@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The%20journey%20is%20the%20reward&fontSize=30&animation=fadeIn&customColorList=2)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,github,gitlab,jenkins,kafka,postgres,python,fastapi,nextjs,react,ts&perline=5" />
