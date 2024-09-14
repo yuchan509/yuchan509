@@ -28,7 +28,7 @@
 
 ---
 
-### 📧 **Contact Information**
+📧 **Contact Information**
 
 If you have any inquiries, feel free to email me! I’ll respond as soon as possible.
 
