@@ -17,7 +17,7 @@
   - **Double Major:** Japanese Language and Literature
   - **Minor:** Economics
 
-
+---
 🌱 **Career Highlights**
 
 - **2020.11 ~ 2021.05**: Completed Project-based AI Big Data Fusion Training
@@ -26,8 +26,7 @@
 - **2023.09 ~ 2023.11**: Google Machine Learning Bootcamp 4th Generation Graduate
 - **2023.11 ~ Present**: Active in Baemin’s "Woowa Study" (Kubernetes Deep Dive Study)
 
-
-
+---
 📧 **Contact Information**
 
 If you have any inquiries, feel free to email me! I’ll respond as soon as possible.
