@@ -33,5 +33,19 @@ If you have any inquiries, feel free to email me! I’ll respond as soon as poss
 
 - **Email**: destiny2468s@naver.com 😎
 
-![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
