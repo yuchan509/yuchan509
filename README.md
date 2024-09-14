@@ -33,5 +33,5 @@ If you have any inquiries, feel free to email me! I’ll respond as soon as poss
 
 - **Email**: destiny2468s@naver.com 😎
 
-![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yuchan509/yuchan509/blob/output/github-contribution-grid-snake.gif)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
